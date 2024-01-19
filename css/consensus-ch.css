@@ -1,3 +1,15 @@
+.w-link-block-2{
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+  justify-content: flex-end;
+  align-items: center;
+  color: hsla(0, 0.00%, 100.00%, 1.00);
+  text-decoration: none;
+}
+
+
+
 .w-checkbox {
   margin-bottom: 5px;
   padding-left: 20px;
