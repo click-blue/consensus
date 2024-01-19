@@ -1205,6 +1205,7 @@ a {
 
 .link-4 {
   width: 24px;
+  height: 24px;
   color: rgba(0, 0, 0, 0);
   background-image: url('../images/social-media.svg');
   background-position: 50%;
